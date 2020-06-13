@@ -4,7 +4,7 @@ import Header from './Header';
 import Options from './Options';
 import OptionModal from './OptionModal';
 
-export default class IndecisionApp extends React.Component {
+export default class MainAPP extends React.Component {
   state = {
     options: ['Golden State Warriors', 'Cleveland Cavaliers',
   'Minnesota Timberwolves','Atlanta Hawks','Detroit Pistons','New York Knicks',
