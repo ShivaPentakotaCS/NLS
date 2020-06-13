@@ -7,7 +7,7 @@ const Action = (props) => (
       onClick={props.handlePick}
       disabled={!props.hasOptions}
     >
-      Who's Getting The 1st Pick?
+      Simulate Draft Winner
       </button>
   </div>
 );

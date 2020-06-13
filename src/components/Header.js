@@ -9,7 +9,7 @@ const Header = (props) => (
 );
 
 Header.defaultProps = {
-  title: 'NBALottoGenerator'
+  title: 'NBALottoSimulator'
 };
 
 export default Header;
