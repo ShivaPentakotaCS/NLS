@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "NBALottoSimulator",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Shiva Pentakota",
@@ -19,6 +19,7 @@
     "css-loader": "0.28.4",
     "express": "latest",
     "live-server": "^1.2.1",
+    "node": "^14.4.0",
     "node-sass": "^4.14.1",
     "normalize.css": "7.0.0",
     "react": "16.0.0",
@@ -33,6 +34,7 @@
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "gh-pages": "^3.0.0",
     "webpack-cli": "^3.3.11"
   }
 }
